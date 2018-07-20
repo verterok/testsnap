@@ -1,0 +1,18 @@
+name: crapsnap
+version: 2018-07-20-01
+summary: The crappiest snap in the universe
+confinement: strict
+grade: stable
+description: This crappy snap just shows some emojis.
+
+architectures:
+  - amd64
+
+apps:
+  crap:
+    command: echo "💩 hello 💩"
+
+parts:
+  empty:
+    plugin: nil
+
