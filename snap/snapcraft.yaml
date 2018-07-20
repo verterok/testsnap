@@ -1,6 +1,6 @@
 name: crapsnap
 version: 2018-07-20-01
-summary: The crappiest snap in the universe
+summary: The crappiest snap in the universe.
 confinement: strict
 grade: stable
 description: This crappy snap just shows some emojis.
@@ -10,7 +10,7 @@ architectures:
 
 apps:
   crap:
-    command: echo "💩 hello 💩"
+    command: echo "💩 hello 💩 how about more emojis 🍌"
 
 parts:
   empty:
