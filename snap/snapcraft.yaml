@@ -1,4 +1,4 @@
-name: crapsnap
+name: verterok-testsnap
 version: 2018-07-20-01
 summary: The crappiest snap in the universe.
 confinement: strict
